@@ -54,7 +54,7 @@ app.post('/send-email', async (req, res) => {
       <p><strong>Message:</strong> ${message}</p>
       <p>Merci de votre confiance en Saison + !</p>
       <p>Équipe Saison +</p>
-      <p><a href="https://saisonplus.com">Visitez notre site</a></p>
+      <p><a href="https://saison-81wx.vercel.app/">Visitez notre site</a></p>
     `,
   };
 
